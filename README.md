@@ -3,7 +3,7 @@
 A responsive personal portfolio website built as a **Route Academy** task. This project follows the required design and structure, using **HTML, CSS, Bootstrap, and Font Awesome** to create a modern and visually appealing layout.  
 
 ## 🔗 **Live Demo**  
-👉 **[View the Project](https://hossambasuone.github.io/introduction/)**  
+👉 **[View the Project](https://hossambasuone.github.io/Daniels---Route-Academy-Task/)**  
 
 ---
 
